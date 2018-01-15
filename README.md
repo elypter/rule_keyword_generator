@@ -1,3 +1,5 @@
+# No longer maintained. Use https://github.com/elypter/filter_processor instead
+
 A script that looks for names of classes and ids in cosmetic adblock/ublock rules for the use in heuristic filters
 
 the default rules file is https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt which is what i wrote this script for
